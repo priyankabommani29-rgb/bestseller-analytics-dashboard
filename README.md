@@ -35,8 +35,8 @@ Data is integrated from **Google Sheets** for real-time updates.
 
 ## 📊 Demo
 
-👉 **Live App:** [Streamlit Cloud Link Here](https://share.streamlit.io/yourusername/bestseller-analytics-dashboard/main/streamlit_app.py)  
-👉 **GitHub Repo:** [Your Repo Link](https://github.com/yourusername/bestseller-analytics-dashboard)
+👉 **Live App:** [Streamlit Cloud Link Here](https://bestseller-analytics-dashboard-kt6vmfxcqphzanwamyvvkn.streamlit.app/)  
+👉 **GitHub Repo:** [Your Repo Link](https://github.com/priyankabommani29-rgb/bestseller-analytics-dashboard)
 
 ---
 
@@ -44,11 +44,11 @@ Data is integrated from **Google Sheets** for real-time updates.
 
 ### Dashboard Overview
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+![Dashboard Screenshot]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-09-14 224836.png")
 
 ### Rating Predictor
 
-![Predictor Screenshot](https://via.placeholder.com/800x400?text=AI+Predictor)
+![Predictor Screenshot]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2025-09-14 224943.png")
 
 ---
 
